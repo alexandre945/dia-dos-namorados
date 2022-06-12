@@ -65,6 +65,7 @@ body {
         .gallery-container {
           width: 500px;
           margin: auto;
+          height: auto;
         }
     }
   
@@ -120,6 +121,16 @@ body {
     /* background: rgb(175, 173, 173); */
     color: black;
     font-size: 18px;
+    font-weight: 300;
+    position: relative;
+    padding: 8px 12px;
+    border-radius: 10px;
+    width: 94%;
+    text-align: center;
+  }
+  .text-1 {
+    color: black;
+    font-size: 30px;
     font-weight: 300;
     position: relative;
     padding: 8px 12px;
